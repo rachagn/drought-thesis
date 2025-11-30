@@ -5,6 +5,10 @@ Ajout d’une section "Objectif général"
 
 ## Mise à jour
 Dernière mise à jour du projet : Février 2025.
-Ajout de la section "Mise à jour" et correction mineure
+## Données utilisées
+- NDVI / VCI / TCI / VHI (MODIS)
+- Indice SPI
+- Shapefiles du bassin 
 
+Ajout de la section "Mise à jour" et correction mineure
 
